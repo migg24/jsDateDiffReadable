@@ -1,4 +1,4 @@
 jsDateDiffReadable
 ==================
 
-Readable difference between to dates
+Readable difference between two dates.
